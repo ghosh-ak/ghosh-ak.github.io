@@ -80,31 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Angkush Kumar Ghosh"
-  avatar           : "profile.png"
-  bio              : "👋 Welcome to my digital realm!
-
-                     I am Ghosh, currently working as an 
-                     Assistant Professor at Kitami Institute of Technology, Japan.
-                     My research interest lies in Smart Manufacturing
-                     Systems and Industry 4.0, covering a broad spectrum of topics: 
-                     Digital Twins, 
-                     Cyber-Physical Systems,
-                     Time Latency,
-                     Signal Processing,
-                     Semantic Annotation,
-                     Knowledge Representation,
-                     Data Inequality, and 
-                     Digital Manufacturing Commons.
-                     
-                     
-                     "
-  location         : "Location"
+  name             : "Angkush K. Ghosh"
+  avatar           : "my photo.png"
+  bio              : 
+  location         : "Kitami, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=2MkxRBcAAAAJ&hl=en&authuser=2"
+  email            : "ghosh-ak@mail.kitami-it.ac.jp"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -112,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/akghoshpritom/"
+  orcid            : "https://orcid.org/0000-0002-9644-177X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
