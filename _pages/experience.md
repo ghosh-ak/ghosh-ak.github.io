@@ -23,5 +23,4 @@ author_profile: true
 * 5/2021 - 8/2021
     <br> <b> Intern </b>
     <br> Advanced Manufacturing Research Institute (AMRI),
-    <br> National Institute of Advanced Industrial Science and Technology (AIST),
-    <br> Japan
+    <br> National Institute of Advanced Industrial Science and Technology (AIST), Japan
