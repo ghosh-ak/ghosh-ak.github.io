@@ -20,7 +20,12 @@ author_profile: true
 
 <br>
 
-* 5/2021 - 8/2021
-    <br> <b> Intern </b>
-    <br> Advanced Manufacturing Research Institute (AMRI),
-    <br> National Institute of Advanced Industrial Science and Technology (AIST), Japan
+* 2/2016 - 9/2017
+    <br> <b> Coordinator and Lecturer </b>
+    <br> Department of Mechanical Engineering,
+    <br> Sonargaon University (SU), Bangladesh
+    <br>
+* 9/2015 - 2/2016
+    <br> <b> Lecturer </b>
+    <br> Department of Mechanical Engineering,
+    <br> Sonargaon University (SU), Bangladesh
