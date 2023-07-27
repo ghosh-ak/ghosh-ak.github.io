@@ -16,3 +16,9 @@ author_profile: true
 * Master of Engineering in Mechanical Engineering
 <br><br> 2017 - 2019
     <br> Kitami Institute of Technology, Japan
+
+<br>
+
+* Bachelor of Science (BSc) in Mechanical Engineering
+<br><br> 2009 - 2013
+    <br> Khulna University of Engineering and Technology, Bangladesh
