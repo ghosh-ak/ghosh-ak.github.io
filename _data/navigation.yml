@@ -24,3 +24,21 @@
 main:
   - title: "Education"
     url: /education/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Proceedings & Presentations"
+    url: /pnp/
+
+  - title: "CV"
+    url: /cv/
