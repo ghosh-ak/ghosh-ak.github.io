@@ -13,13 +13,11 @@ author_profile: true
     <br> Kitami Institute of technology, Japan
 
 <br>
-
 * 9/2021 - 12/2021
     <br> <b> Intern </b>
     <br> LEXER RESEARCH Inc., Japan
 
 <br>
-
 * 2/2016 - 9/2017
     <br> <b> Coordinator and Lecturer </b>
     <br> Department of Mechanical Engineering,
