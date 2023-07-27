@@ -13,14 +13,17 @@ I'm currently an Assistant Professor @ [Kitami Institute of Technology](https://
 As a researcher, I am passionate about advancing the field of smart manufacturing and Industry 4.0. 
 
 My current research focuses on developing intelligent manufacturing systems and related issues:
-Digital Twins, 
-Cyber-Physical Systems (CPS), 
-Time Latency in Signal Processing, 
-Semantic Annotation and Data Representation,
-Data Inequality, and 
-Digital Manufacturing Commons.
+  • Digital Twins
+  • Cyber-Physical Systems (CPS)
+  • Time Latency in Signal Processing
+  • Semantic Annotation and Data Representation
+  • Data Inequality
+  • Digital Manufacturing Commons
+  • Biologicalization in Manufacturing
+  • Quasi-natural language-based CAD
+  and beyond ...
 
-Apart from this, I like to read and travel, love music and football!
+Apart from this, I enjoy reading and traveling, and I have a love for music and football!
 
-Welcome to my digital realm and feel free to explore! 
+Welcome to my digital realm, and feel free to explore!
 You may also visit our [Advanced Manufacturing Engineering Laboratory](https://www.kitami-it.ac.jp/) @ KIT.
