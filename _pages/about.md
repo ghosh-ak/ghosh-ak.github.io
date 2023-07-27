@@ -7,3 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+I'm currently an Assistant Professor @ Kitami Institute of Technology, Japan.
+
