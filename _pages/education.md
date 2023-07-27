@@ -19,6 +19,6 @@ author_profile: true
 
 <br>
 
-* <b> 3/2009 - 10/2013
-    <br> Bachelor of Science (BSc) in Mechanical Engineering </b>
+* 3/2009 - 10/2013
+    <br> <b> Bachelor of Science (BSc) in Mechanical Engineering </b>
     <br> Khulna University of Engineering and Technology, Bangladesh
