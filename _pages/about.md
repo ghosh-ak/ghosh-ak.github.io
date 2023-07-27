@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br> I'm currently an Assistant Professor @ [Kitami Institute of Technology](https://www.kitami-it.ac.jp/), Japan. <br> As a researcher, I am passionate about advancing the field of smart manufacturing / Industry 4.0.
+<br> I'm currently an Assistant Professor @ [Kitami Institute of Technology](https://www.kitami-it.ac.jp/) (KIT), Japan. <br> As a researcher, I am passionate about advancing the field of smart manufacturing / Industry 4.0.
 
 My current research focuses on developing intelligent manufacturing systems and related issues:
  * Digital Twins
