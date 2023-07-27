@@ -1,50 +1,22 @@
 # main links links
 main:
-  - title: "Education"
-    url: /education/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Experience"
-    url: /experience/    
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Research"
-    url: /research/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Publications"
-    url: /publications/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  - title: "Proceedings"
-    url: /proceedings/
-
-  - title: "Presentations"
-    url: /presentations/
-    
-  - title: "Talks"
-    url: /talks/
-
-    - title: "CV"
+  - title: "CV"
     url: /cv/
-
-
-#- title: "Publications"
-#  url: /publications/
-
-#- title: "Talks"
-#  url: /talks/    
-
-#- title: "Teaching"
-#  url: /teaching/    
     
-#- title: "Portfolio"
-#  url: /portfolio/
-        
-#- title: "Blog Posts"
-#  url: /year-archive/
-    
-#- title: "CV"
-#  url: /cv/
-    
-#- title: "Guide"
-#  url: /markdown/
+  - title: "Guide"
+    url: /markdown/
