@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hello there, I'm Angkush Kumar Ghosh!"
-excerpt: "About me<br>"
+excerpt: "About me<br><br>"
 author_profile: true
 redirect_from: 
   - /about/
