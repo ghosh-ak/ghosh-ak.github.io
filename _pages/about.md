@@ -23,4 +23,4 @@ My current research focuses on developing intelligent manufacturing systems and 
 
 Apart from this, I enjoy reading and traveling, and I have a love for music and football!
 
-Welcome to my digital realm, and feel free to explore! <br> You may also visit our [lab](https://kit-amel.jp/) @ KIT.
+Welcome to my digital realm, and feel free to explore! <br> You may also visit my lab [Advanced Manufacturing Engineering Laboratory](https://kit-amel.jp/) @ KIT.
