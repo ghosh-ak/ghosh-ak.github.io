@@ -13,4 +13,6 @@ As an instructor in this dynamic field, my philosophy is to equip students with 
 
 Apart from creating lecture contents, I prepare online tutorials ([Visit YouTube Channel](https://www.youtube.com/channel/UCMokYkGSWeWllinxpA-qQwg/playlists)) so that the students can follow and learn anywhere, anytime!
 
+<br>
+
 ![Image](/images/image-alignment-300x200.jpg)
