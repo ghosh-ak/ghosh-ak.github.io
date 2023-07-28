@@ -18,8 +18,8 @@ author_profile: true
 
 <br>
 * <b> Semantic Annotation and Data Representation </b>
-    <br><br>
-    <br><br>
+    <br><br> In smart manufacturing, manufacturing enablers (machine tools, monitoring systems, digital twins, and alike) and human resources need knowledge for performing high-level cognitive tasks (monitoring, understanding, predicting, decision-making, and adapting). The ever-growing knowledge-bases in the human-cyber-physical systems supply the required knowledge. The knowledge in the knowledge-bases must be human/machine-comprehensible, represented by a scalable ontology-based representation method. In reality, representation methods are mostly domain-specific and follow strict ontological formalism. Our [research team @ KIT](https://kit-amel.jp/) is addresseing this issue by proposing a semantic annotation-based representation method. The annotation mechanism follows knowledge-type-aware concept mapping. A computerized system, denoted as Semantically Annotated Data Visualization System (SAD-VS), is also developed for human/machine comprehensibility of the represented knowledge.
+    <br><br> ![Image](/images/semantics.png)
 
 <br>
 * <b> Signal Processing in Delay Domain </b>
