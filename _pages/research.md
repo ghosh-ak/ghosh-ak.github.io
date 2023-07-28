@@ -14,7 +14,7 @@ author_profile: true
 <br>
 * <b> Sensor Signal-based Digital Twins </b>
     <br> 
-    <br> 
+    <br> ![Image](/images/DT.png)
 
 <br>
 * <b> Semantic Annotation and Data Representation </b>
