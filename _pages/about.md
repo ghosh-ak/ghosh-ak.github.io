@@ -17,6 +17,7 @@ My current research focuses on developing intelligent manufacturing systems and 
  * Semantic Annotation and Data Representation
  * Data Inequality
  * Digital Manufacturing Commons 
+ * Natural/Quasi-Natural Language-based CAD 
 <br> <br> and beyond ...
 
 Apart from this, I enjoy reading and traveling, and I have a love for music and football!
