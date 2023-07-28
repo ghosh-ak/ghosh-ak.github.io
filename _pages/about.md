@@ -14,7 +14,7 @@ My current research focuses on developing intelligent manufacturing systems and 
  * Digital Twins
  * Cyber-Physical Systems (CPS)
  * Time Latency in Signal Processing
- * Semantic Annotation and Data Representation
+ * Semantic Annotation and Knowledge Representation
  * Big Data Inequality
  * Digital Manufacturing Commons 
  * Natural/Quasi-Natural Language-based CAD 
