@@ -18,6 +18,7 @@ My current research focuses on developing intelligent manufacturing systems and 
  * Data Inequality
  * Digital Manufacturing Commons 
  * Natural/Quasi-Natural Language-based CAD 
+ * Biologicalization of Manufacturing
 <br> <br> and beyond ...
 
 Apart from this, I enjoy reading and traveling, and I have a love for music and football!
