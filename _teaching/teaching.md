@@ -7,10 +7,10 @@ author_profile: true
 
 <br>
 
-I teach <b> Computer-Aided Design (CAD) </b> and <b> Computer-Aided Manufacturing (CAM) </b>, <br>
+I teach <b> Computer-Aided Design (CAD) </b> and <b> Computer-Aided Manufacturing (CAM)</b>, <br>
 tailor-made for undergraduate students. 
 
-As an instructor in this dynamic field, 
+As an instructor in this dynamic field, <br>
 my philosophy is to equip students with the essential knowledge and practical skills <br>
 to excel in CAD/CAM—through hands-on projects and interactive learning. <br> 
 I believe the most crucial aspect for a CAD/CAM professional is unleashing creativity <br>
