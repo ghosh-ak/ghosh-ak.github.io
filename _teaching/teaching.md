@@ -15,4 +15,4 @@ Apart from creating lecture contents, I prepare online tutorials ([Visit YouTube
 
 <br>
 
-![Image](/images/image-alignment-300x200.jpg)
+![Image](/images/teaching.png)
