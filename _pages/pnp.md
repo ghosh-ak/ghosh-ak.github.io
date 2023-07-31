@@ -8,18 +8,18 @@ author_profile: true
 <br>
 
 <h2>International Conference:</h2>
-<br>
+
 * (2022) Procedia CIRP
 
 <br>
 
 <h2>National Conference:</h2>
-<br>
+
 * (2022) Procedia CIRP
 
 
 <br>
 
 <h2>Talks:</h2>
-<br>
+
 * (2022) Procedia CIRP
