@@ -10,7 +10,7 @@ author_profile: true
 * 4/2022 - Present
     <br> <b> Assistant Professor </b>
     <br> Division of Mechanical and Electrical Engineering,
-    <br> Kitami Institute of technology, Japan
+    <br> Kitami Institute of Technology, Japan
 
 <br>
 * 9/2021 - 12/2021
