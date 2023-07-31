@@ -8,7 +8,7 @@ author_profile: true
 <br>
 
 * <b> Delay Domain-Based Signal Processing for Intelligent Manufacturing Systems </b>
-    <br> (2022) Procedia CIRP [🔗](https://doi.org/10.1016/j.procir.2022.09.083)
+    <br> (2022) Procedia CIRP [<span style="text-decoration: none;">🔗</span>](https://doi.org/10.1016/j.procir.2022.09.083)
 
 * <b> Preparing Big Data of Surface Roughness for Smart Manufacturing </b>
     <br> (2022) Proceedings of LEM'21 [🔗](https://doi.org/10.1299/jsmelem.2021.10.009-110)
