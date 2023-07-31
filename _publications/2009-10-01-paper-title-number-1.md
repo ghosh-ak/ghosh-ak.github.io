@@ -32,3 +32,7 @@
 <br>
 * <b> Evaluation of cooling capability of an eco-cooler: experimental and numerical analyses </b>
     <br> (2019) Energy Procedia [🔗](https://doi.org/10.1016/j.egypro.2019.02.124)
+
+<br>
+* <b> An Investigation on the Possible Radioactive Contamination of Environment during a Steam-Line Break Accident in a VVER-1200 Nuclear Power Plant </b>
+    <br> (2019) Current World Environment [🔗](http://dx.doi.org/10.12944/CWE.14.2.14)
