@@ -26,15 +26,15 @@ author_profile: true
 
 <h2>National Conference / Annual Meet:</h2>
 
-* <b>加工オペレーションの切削条件を最適化するビッグデータ分析の開発 (Developing Big Data Analytics to Optimize Cutting Conditions of Machining Operations)</b>, Proceedings of the JSPE Hokkaido Meet 2022 (2022 年度 精密工学会 北海道支部 学術講演会), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
+* <b>加工オペレーションの切削条件を最適化するビッグデータ分析の開発 (Developing Big Data Analytics to Optimize Cutting Conditions of Machining Operations)</b>, 2022 年度 精密工学会 北海道支部 学術講演会 講演論文集 (Proceedings of the JSPE Hokkaido Meet 2022), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
 
-* <b>反復関数系を用いて作成されたフラクタル図形の再設計に関する研究 (Study on redesigning fractal figures using iterative function systems (IFS))</b>, Proceedings of the JSPE Hokkaido Meet 2022 (2022 年度 精密工学会 北海道支部 学術講演会), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
+* <b>反復関数系を用いて作成されたフラクタル図形の再設計に関する研究 (Study on redesigning fractal figures using iterative function systems (IFS))</b>, 2022 年度 精密工学会 北海道支部 学術講演会 講演論文集 (Proceedings of the JSPE Hokkaido Meet 2022), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
 
-* <b>スマートマニュファクチャリングを規範とするコンテンツの作成とそのシステムの開発 (Developing a system for digitizing manufacturing process-relevant contents)</b>, Proceedings of the JSPE Hokkaido Meet 2022 (2022 年度 精密工学会 北海道支部 学術講演会), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
+* <b>スマートマニュファクチャリングを規範とするコンテンツの作成とそのシステムの開発 (Developing a system for digitizing manufacturing process-relevant contents)</b>, 2022 年度 精密工学会 北海道支部 学術講演会 講演論文集 (Proceedings of the JSPE Hokkaido Meet 2022), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
 
 
 <br>
 
-<h2>Talks:</h2>
+<h2>Talk:</h2>
 
-* (2022) Procedia CIRP
+<b>Digital Twins of Complex Machining Phenomena: A Perspective of Industry 4.0</b>, Research Seminar, Organized by Sonargaon University (SU), Dhaka, Bangladesh, Oct. 18, 2022.
