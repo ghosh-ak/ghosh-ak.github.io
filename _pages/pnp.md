@@ -37,4 +37,4 @@ author_profile: true
 
 <h2>Talk:</h2>
 
-<b>Digital Twins of Complex Machining Phenomena: A Perspective of Industry 4.0</b>, Research Seminar, Organized by Sonargaon University (SU), Dhaka, Bangladesh, Oct. 18, 2022.
+* <b>Digital Twins of Complex Machining Phenomena: A Perspective of Industry 4.0</b>, Research Seminar, Organized by Sonargaon University (SU), Dhaka, Bangladesh, Oct. 18, 2022.
