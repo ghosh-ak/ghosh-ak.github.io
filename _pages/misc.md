@@ -9,13 +9,13 @@ author_profile: true
 
 <h2>Professional Membership:</h2>
 
-* The Japan Society of Mechanical Engineers (JSME)<br>
-  日本機械学会</b><br>
-  Member since 10/2019
-
 * The Japan Society for Precision Engineering (JSPE)<br>
   精密工学会<br>
   Member since 4/2022
+
+* The Japan Society of Mechanical Engineers (JSME)<br>
+  日本機械学会</b><br>
+  Member since 10/2019
 
 <br>
 
