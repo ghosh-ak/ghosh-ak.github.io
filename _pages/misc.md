@@ -29,4 +29,16 @@ author_profile: true
 
 <br>
 
+<h2>Hobbies and Interests:</h2>
+
+* Music 🎶 🎧
+
+* Football ⚽ 🔟
+
+* Reading 📚 📖
+
+* Traveling 🌍 🚉
+
+<br>
+
 <h2>CV:</h2>
