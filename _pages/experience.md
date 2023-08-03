@@ -18,7 +18,7 @@ author_profile: true
     <br> LEXER RESEARCH Inc., Japan
 
 <br>
-* 3/2021 - 8/2021
+* 5/2021 - 8/2021
     <br> <b> Intern </b>
     <br> Advanced Manufacturing Research Institute (AMRI),
     <br> National Institute of Advanced Industrial Science and Technology (AIST), Japan
