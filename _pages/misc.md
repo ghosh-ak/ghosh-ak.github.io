@@ -43,4 +43,4 @@ author_profile: true
 
 <h2>CV:</h2>
 
-You may download my CV from here: ![Ghosh_CV](/files/Ghosh_CV.pdf)
+You may download my CV from [here](/files/Ghosh_CV.pdf).
