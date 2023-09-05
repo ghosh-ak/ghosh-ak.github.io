@@ -7,6 +7,12 @@ author_profile: true
 
 <br>
 
+* <b> Towards Developing Big Data Analytics for Machining Decision-Making </b>
+    <br> (2023) Journal of Manufacturing and Materials Processing [🔗](https://doi.org/10.3390/jmmp7050159)
+
+* <b> Developing Big Data Analytics for Smart Manufacturing </b>
+    <br> (2023) Proceedings of JSPE Semestrial Meeting [🔗](https://doi.org/10.11522/pscjspe.2023S.0_613)
+
 * <b> Delay Domain-Based Signal Processing for Intelligent Manufacturing Systems </b>
     <br> (2022) Procedia CIRP [🔗](https://doi.org/10.1016/j.procir.2022.09.083)
 
