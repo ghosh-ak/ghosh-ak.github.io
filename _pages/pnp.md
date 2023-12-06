@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 
-<h2>International Conference:</h2>
+<h2>International Conference / Annual Meet:</h2>
 
 * <b>A Metrology System for 3D Printed Objects</b>, Poster Presentation, Poster No. 10, 38th ASPE Annual Meeting, Organized by the American Society for Precision Engineering (ASPE), Boston Park Plaza, Boston, Massachusetts, USA, Nov. 12 - 17, 2023.
 
