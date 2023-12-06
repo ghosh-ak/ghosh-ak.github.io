@@ -9,6 +9,8 @@ author_profile: true
 
 <h2>International Conference:</h2>
 
+* <b>A Metrology System for 3D Printed Objects</b>, Poster Presentation, Poster No. 10, 38th ASPE Annual Meeting, Organized by the American Society for Precision Engineering (ASPE), Boston Park Plaza, Boston, Massachusetts, USA, Nov. 12 - 17, 2023.
+
 * <b>Toward big data analytics for smart manufacturing: A case of machining experiment</b>, Proceedings of the International Conference on Design and Concurrent Engineering & Manufacturing Systems Conference 2023 (iDECON/MS 2023), Organized by the Japan Society of Mechanical Engineers (JSME), Hybrid Conference, Keio University, Raiosha, Japan, Sep. 1 - 2, 2023.
 
 * <b>Developing Design and Manufacturing Systems for Achieving the Fourth Industrial Revolution</b>, Proceedings of the 2nd International Conference on Japan - Bangladesh Research and Practice (JBRP2023), Organized by the Network of Bangladesh Researchers in Japan (NBRJ), Nanzan University, Nagoya, Japan, Aug. 11 - 12, 2023.
