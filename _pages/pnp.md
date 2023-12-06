@@ -11,7 +11,7 @@ author_profile: true
 
 * <b>A Metrology System for 3D Printed Objects</b>, Poster Presentation, Poster No. 10, 38th ASPE Annual Meeting, Organized by the American Society for Precision Engineering (ASPE), Boston Park Plaza, Boston, Massachusetts, USA, Nov. 12 - 17, 2023.
 
-* <b>Toward big data analytics for smart manufacturing: A case of machining experiment</b>, Proceedings of the International Conference on Design and Concurrent Engineering & Manufacturing Systems Conference 2023 (iDECON/MS 2023), Organized by the Japan Society of Mechanical Engineers (JSME), Hybrid Conference, Keio University, Raiosha, Japan, Sep. 1 - 2, 2023.
+* <b>Toward Big Data Analytics for Smart Manufacturing: A Case of Machining Experiment</b>, Proceedings of the International Conference on Design and Concurrent Engineering & Manufacturing Systems Conference 2023 (iDECON/MS 2023), Organized by the Japan Society of Mechanical Engineers (JSME), Hybrid Conference, Keio University, Raiosha, Japan, Sep. 1 - 2, 2023.
 
 * <b>Developing Design and Manufacturing Systems for Achieving the Fourth Industrial Revolution</b>, Proceedings of the 2nd International Conference on Japan - Bangladesh Research and Practice (JBRP2023), Organized by the Network of Bangladesh Researchers in Japan (NBRJ), Nanzan University, Nagoya, Japan, Aug. 11 - 12, 2023.
 
@@ -36,9 +36,9 @@ author_profile: true
 
 * <b>加工オペレーションの切削条件を最適化するビッグデータ分析の開発 (Developing Big Data Analytics to Optimize Cutting Conditions of Machining Operations)</b>, 2022 年度 精密工学会 北海道支部 学術講演会 講演論文集 (Proceedings of the JSPE Hokkaido Meet 2022), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
 
-* <b>反復関数系を用いて作成されたフラクタル図形の再設計に関する研究 (Study on redesigning fractal figures using iterative function systems (IFS))</b>, 2022 年度 精密工学会 北海道支部 学術講演会 講演論文集 (Proceedings of the JSPE Hokkaido Meet 2022), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
+* <b>反復関数系を用いて作成されたフラクタル図形の再設計に関する研究 (Study on Redesigning Fractal Figures using Iterative Function Systems (IFS))</b>, 2022 年度 精密工学会 北海道支部 学術講演会 講演論文集 (Proceedings of the JSPE Hokkaido Meet 2022), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
 
-* <b>スマートマニュファクチャリングを規範とするコンテンツの作成とそのシステムの開発 (Developing a system for digitizing manufacturing process-relevant contents)</b>, 2022 年度 精密工学会 北海道支部 学術講演会 講演論文集 (Proceedings of the JSPE Hokkaido Meet 2022), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
+* <b>スマートマニュファクチャリングを規範とするコンテンツの作成とそのシステムの開発 (Developing a System for Digitizing Manufacturing Process-relevant Contents)</b>, 2022 年度 精密工学会 北海道支部 学術講演会 講演論文集 (Proceedings of the JSPE Hokkaido Meet 2022), Organized by the Japan Society for Precision Engineering (JSPE), Kitami, Japan, Aug. 27, 2022.
 
 
 <br>

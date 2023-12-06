@@ -25,7 +25,7 @@ author_profile: true
 * <b> Time Latency-Centric Signal Processing: A Perspective of Smart Manufacturing </b>
     <br> (2021) Sensors [🔗](https://doi.org/10.3390/s21217336)
 
-* <b> Developing sensor signal-based digital twins for intelligent machine tools </b>
+* <b> Developing Sensor Signal-based Digital Twins for Intelligent Machine Tools </b>
     <br> (2021) Journal of Industrial Information Integration [🔗](https://doi.org/10.1016/j.jii.2021.100242)
 
 * <b> Machining Phenomenon Twin Construction for Industry 4.0: A Case of Surface Roughness </b>
@@ -34,10 +34,10 @@ author_profile: true
 * <b> Improvement of Electric Heater Design for Household Cooking Application in Developing Countries </b>
     <br> (2020) Intelligent Manufacturing and Energy Sustainability [🔗](https://doi.org/10.1007/978-981-15-1616-0_4)
 
-* <b> Hidden Markov model-based digital twin construction for futuristic manufacturing systems </b>
+* <b> Hidden Markov Model-based Digital Twin Construction for Futuristic Manufacturing Systems </b>
     <br> (2019) Artificial Intelligence for Engineering Design, Analysis and Manufacturing [🔗](https://doi.org/10.1017/S089006041900012X)
 
-* <b> Evaluation of cooling capability of an eco-cooler: experimental and numerical analyses </b>
+* <b> Evaluation of Cooling Capability of an Eco-cooler: Experimental and Numerical Analyses </b>
     <br> (2019) Energy Procedia [🔗](https://doi.org/10.1016/j.egypro.2019.02.124)
 
 * <b> An Investigation on the Possible Radioactive Contamination of Environment during a Steam-Line Break Accident in a VVER-1200 Nuclear Power Plant </b>
