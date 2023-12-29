@@ -7,6 +7,9 @@ author_profile: true
 
 <br>
 
+* <b> Toward big data analytics for smart manufacturing: A case of machining experiment </b>
+    <br> (2023) Proceedings of JSME IDECON'23 [🔗](https://doi.org/10.1299/jsmeidecon.2023.0_33)
+
 * <b> Towards Developing Big Data Analytics for Machining Decision-Making </b>
     <br> (2023) Journal of Manufacturing and Materials Processing [🔗](https://doi.org/10.3390/jmmp7050159)
 
